@@ -11,6 +11,8 @@
         "php": ">=5.4.3",
         "zendframework/zendframework": "2.*",
 	"doctrine/doctrine-orm-module": "dev-master",
+	"gedmo/doctrine-extensions": "dev-master",
+	"zf-commons/zfc-user-doctrine-orm": "dev-master",
 	"doctrine/migrations": "dev-master"
     }
 }
